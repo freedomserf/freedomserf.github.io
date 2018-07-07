@@ -1,0 +1,15 @@
+header{
+    font-size: 20px
+    color:green;
+    font-style: italic;
+    margin: 0 auto;
+    padding botton: 32px;
+}
+main{
+    font-size: 15px
+    color:blue;
+}
+footer{
+    margin: 0 auto;
+    padding botton: 64px;
+}
